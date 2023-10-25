@@ -1,0 +1,333 @@
+2023-10-25 18:58:27 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/89d56d6f-ace1-43cf-9c02-af3b8855eddd
+Referer URL: http://localhost/testplatform/frontend/webroot/login
+
+
+2023-10-25 19:44:41 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/b30d6873-d275-4517-bed4-7cd08c442a62
+Referer URL: http://localhost/testplatform/frontend/webroot/login
+
+
+2023-10-25 19:44:45 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/d2abedca-c6da-4808-8d05-9cf725cacbce
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:45:33 Error: [Cake\Http\Exception\MissingControllerException] Controller class Img could not be found. in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 158
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:46
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\BaseApplication.php:249
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /img/users/kolyan.jpg
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:45:33 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/72d3df53-0343-4efb-ad81-ab2cfb35d8a7
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:47:36 Error: [Cake\Http\Exception\MissingControllerException] Controller class Img could not be found. in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 158
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:46
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\BaseApplication.php:249
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /img/users/kolyan.jpg
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:47:37 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/3f723efc-6aa7-4f15-86de-cf143629aa4b
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:58:27 Error: [Cake\Http\Exception\MissingControllerException] Controller class Img could not be found. in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 158
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:46
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\BaseApplication.php:249
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:166
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /img/users/kolyan.jpg
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:58:27 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/58bd0ea6-dd57-4b98-9d3c-13c62b9d57b6
+Referer URL: http://localhost/testplatform/frontend/webroot/login?true
+
+
+2023-10-25 19:58:29 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/af9dafe8-00a9-4d98-a1af-98cd112da904
+Referer URL: http://localhost/testplatform/frontend/webroot/
+
+
+2023-10-25 19:58:31 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/9c4df46b-081e-45d0-8730-2376f5559420
+Referer URL: http://localhost/testplatform/frontend/webroot/login
+
+
+2023-10-25 19:58:32 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/bca6cfcb-a990-4d0f-8ad5-a2a39c826453
+Referer URL: http://localhost/testplatform/frontend/webroot/registration
+
+
+2023-10-25 19:58:42 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/4c9e3b7d-11ae-4c7f-b0a3-714045e031f3
+Referer URL: http://localhost/testplatform/frontend/webroot/login
+
+
+2023-10-25 19:58:48 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/584b6518-dc42-40c7-84d6-7f2dbac7ba31
+Referer URL: http://localhost/testplatform/frontend/webroot/registration
+
+
+2023-10-25 19:58:53 Error: [TypeError] preg_replace(): Argument #2 ($replacement) must be of type array|string, int given in C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php on line 235
+Stack Trace:
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Utility\Text.php:235
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Debugger.php:455
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:122
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\ErrorLogger.php:83
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php:338
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:143
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:125
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\8.0.2\htdocs\testplatform\frontend\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/623083e6-7dd6-4f23-8e92-605e0f8e96cd
+Referer URL: http://localhost/testplatform/frontend/webroot/registration?email=&password=&password_repeat=&username=
+
+

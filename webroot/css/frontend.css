@@ -1,0 +1,98 @@
+body {
+    background-color: #f6f6f6;
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #cdd1d3;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+header .navbar {
+    padding: 0;
+}
+
+header .navbar .navbar-brand {
+    margin-right: 2rem;
+}
+
+header .navbar .navbar-toggler {
+    border: 0;
+    color: #212529;
+    outline: 0;
+}
+
+@media (min-width: 768px) {
+    header .navbar .navbar-nav > .nav-item .nav-link {
+        padding-right: .8rem;
+        padding-left: .8rem;
+    }
+}
+
+header .navbar .navbar-nav > .nav-item > .nav-link {
+}
+
+header .navbar .navbar-nav > .nav-item.active > .nav-link {
+    color: #3199cc;
+    font-weight: 500;
+}
+
+main {
+    margin-top: 71px;
+    min-height: 400px;
+}
+
+main h1 {
+    display: inline-block;
+    margin: 30px 0 15px;
+    font-size: 1.5rem;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 35px;
+    background-color: #fff;
+}
+
+footer .nav > .nav-item > .nav-link {
+    padding: .1rem;
+    font-size: .9rem;
+    color: rgba(0, 0, 0, .5);
+}
+
+footer .nav > .nav-item > .nav-link:hover {
+    color: rgba(0, 0, 0, .7);
+}
+
+
+.jumbotron-home {
+    padding: 10rem 2rem;
+    background-image: url(../img/home-jumbotron.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.accordion-faq .card {
+    background: transparent;
+    border: 0;
+}
+
+.accordion-faq .card .card-header {
+    padding: .9rem;
+
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+
+    cursor: pointer;
+}
+
+.accordion-faq .card + .card {
+    margin-top: 5px;
+}
